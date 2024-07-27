@@ -14,8 +14,8 @@ Currently interested learning Javascript Framework
 
 
 ## 📫 Connect with Me
+![Gmail Badge](https://img.shields.io/badge/-novandram15@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:novandram15@gmail.com)
 
-- [![Gmail Badge](https://img.shields.io/badge/-novandram15@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:novandram15@gmail.com)]
 [![Linkedin Badge](https://img.shields.io/badge/-novandramaulana-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/novandramaulana/)](https://www.linkedin.com/in/novandramaulana/) [![Github Badge](https://img.shields.io/badge/-notfoundra-grey?style=flat&logo=github&logoColor=white&link=https://github.com/notfoundra/)](https://www.github.com/notfoundra/) [![instagram Badge](https://img.shields.io/badge/-novandramln-00acee?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/novandramln/)](https://www.twitter.com/novandramln/) 
 
 
