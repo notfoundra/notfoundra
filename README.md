@@ -20,6 +20,6 @@ Currently interested learning Javascript Framework
 - **Instagram**: [@novandramln](https://instagram.com/novandramln)
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=notfoundra&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notfoundra&layout=compact&theme=radical)
