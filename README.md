@@ -2,11 +2,11 @@
 
 I'm a passionate **PHP Developer** from **Indonesia** with a knack for building robust web applications using **CodeIgniter 4**. When I'm not coding, you can find me exploring the latest tech trends or enjoying a good cup of coffee.
 
-Currently interested learning Javascript Framework
+Currently interested learning Go and Javascript Framework
 
 ## 🚀 Skills
 
-- **Languages**: PHP, JavaScript, HTML, CSS
+- **Languages**: PHP, JavaScript, HTML, CSS, Go
 - **Frameworks**: CodeIgniter 4, Laravel, Bootstrap
 - **Tools**: Git, Composer, Docker, Visual Studio Code
 - **Databases**: MySQL, PostgreSQL
